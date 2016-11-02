@@ -2,9 +2,10 @@
 Using Python to work with Big Data sets from Twitter
 ====================================================
 
-Version .45
-> Jacques Laroche
-> Tim Ryan
+Version .50
+Jacques Laroche
+Tim Ryan
+Steven Gilliam
 
 ----------------------------------------------------
 CONTENTS:
@@ -29,15 +30,17 @@ I. FEATURES
 ----------------------------------------------------
 II. RELEASE NOTES
 ----------------------------------------------------
+v.50:
+-----
+* Added Regex to parse address
+* Added Loop Counter as visual aid when performing main loop
 
+v.45:
+-----
 *  Added detailed comments throughout script.
-
 *  Changed for loop to only process coordinate information if not null.
-
 *  Added sleep timer to main loop in order to avoid Rate Limiting.
-
 *  Fixed format of coordinates retrieved from Tweepy to work correctly with GeoPy.
-
 *  Added numerous print statements to loops for debugging purposes.
 
 
