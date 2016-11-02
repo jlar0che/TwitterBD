@@ -2,10 +2,10 @@
 Using Python to work with Big Data sets from Twitter
 ====================================================
 
-Version .50
-Jacques Laroche
-Tim Ryan
-Steven Gilliam
+Version .50 <br />
+Jacques Laroche <br />
+Tim Ryan <br />
+Steven Gilliam <br />
 
 ----------------------------------------------------
 CONTENTS:
