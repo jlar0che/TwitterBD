@@ -44,7 +44,7 @@ v.45:
 *  Added numerous print statements to loops for debugging purposes.
 
 
-Technical Notes:
+<b>Technical Notes:</b>
 
 Written in Python 2.7 
 	The following packages are used:
@@ -61,5 +61,5 @@ Written in Python 2.7
 III. CONTACT INFORMATION
 ----------------------------------------------------
 
-Jacques Laroche
-https://currentperspectives.org
+Jacques Laroche <br />
+https://currentperspectives.org/about
